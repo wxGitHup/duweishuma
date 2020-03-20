@@ -1,0 +1,952 @@
+{
+    "code" : "success",
+    "data" :     {
+        "endRow" : 8,
+        "hasNextPage" : 0,
+        "hasPreviousPage" : 0,
+        "isFirstPage" : 1,
+        "isLastPage" : 1,
+        "navigateFirstPage" : 1,
+        "navigateLastPage" : 1,
+        "navigatePages" : 8,
+        "navigatepageNums" : 1,
+        "nextPage" : 0,
+        "pageNum" : 1,
+        "pageSize" : 10,
+        "pages" : 1,
+        "prePage" : 0,
+        "size" : 8,
+        "startRow" : 1,
+        "total" : 8,
+        "list" :         [
+            {
+                "id": 2231,
+                "name": "当天发货/24期分期Apple 苹果 iPhone 11全网通苹果11正品手机X国行官方xr官网8Plus旗舰店xsmax新品11promax",
+                "imgUrl": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/268451883/O1CN01QKLSzD1PmSNgI7sa5_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "5088.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN01QKLSzD1PmSNgI7sa5_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i2/268451883/O1CN01jKjOmX1PmSNbsAZnc_!!268451883.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN01h356ui1PmSLkkIMuR_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01OxtFw61PmSLlem37B_!!268451883.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01K1pdtm1PmSLd8tT4n_!!268451883.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01LSuaWz1PmSNb3yeUz_!!268451883.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i2/268451883/O1CN01PczMY11PmSNHsIeOb_!!268451883.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN01En20My1PmSNddunAc_!!268451883.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01AkMQm81PmSLpWkg6q_!!268451883.png"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i2/268451883/O1CN01gRXEku1PmSNTLw8o7_!!268451883.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN01kRPiLy1PmSLlpg9MC_!!268451883.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01YVBM281PmSNGKcbOQ_!!268451883.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i2/268451883/O1CN01AWQVdL1PmSLtseUGI_!!268451883.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01PXL9uH1PmSNUXXC91_!!268451883.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN010ZOc7M1PmSNME04sn_!!268451883.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01hsse191PmSNRy8vSb_!!268451883.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01PALygv1PmSNQIyXId_!!268451883.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01fOQqnb1PmSMyH7U4o_!!268451883.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01gpDxbf1PmSNbxjCuK_!!268451883.jpg"
+                    },
+                    {
+                        "id": 15,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01uZHWAN1PmSNdc83Hj_!!268451883.jpg"
+                    },
+                    {
+                        "id": 16,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01FzBklD1PmSLo0IvGe_!!268451883.jpg"
+                    },
+                    {
+                        "id": 17,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01yQ8tiG1PmSLnFxQx6_!!268451883.jpg"
+                    },
+                    {
+                        "id": 18,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN01Pyx6Nx1PmSNbvDajr_!!268451883.jpg"
+                    },
+                    {
+                        "id": 19,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN01K0Fbdl1PmSLpJ1G8F_!!268451883.jpg"
+                    },
+                    {
+                        "id": 20,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN013paZgU1PmSLivSPnh_!!268451883.jpg"
+                    },
+                    {
+                        "id": 21,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01nzFdb11PmSLm7HtRK_!!268451883.jpg"
+                    },
+                    {
+                        "id": 22,
+                        "url": "https://img.alicdn.com/imgextra/i2/268451883/O1CN01FyqO5s1PmSLll5tmC_!!268451883.jpg"
+                    },
+                    {
+                        "id": 23,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN01m2j3Uy1PmSLeLWVEw_!!268451883.jpg"
+                    },
+                    {
+                        "id": 24,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01pQG8Pt1PmSLlzQx3p_!!268451883.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2232,
+                "name": "Apple/苹果 iPad 2019新款 10.2英寸ipad7 平板电脑128G苹果平板 ipadair支持Apple Pencil",
+                "imgUrl": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i3/2202421911399/O1CN01eK4Fdi1MCmgISOgmo_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "2459.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/2202421911399/O1CN01eK4Fdi1MCmgISOgmo_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i2/2202421911399/O1CN01xqEC8u1MCmgKaPG7J_!!2202421911399.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/2202421911399/O1CN01v5SxMy1MCmf1haAsL_!!2202421911399.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/2202421911399/O1CN01Mg4UWc1MCmf4l011Y_!!2202421911399.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i4/2202421911399/O1CN01LvlzTB1MCmf1hZu8T_!!2202421911399.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/2202421911399/O1CN01xb5kx21MCmfi7x4Pk_!!2202421911399.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/2202421911399/O1CN01fqkq7D1MCmfl5tvOD_!!2202421911399.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/2202421911399/O1CN01cQ76ir1MCmfnznr7b_!!2202421911399.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/2202421911399/O1CN01MvDmH31MCmewNPpkI_!!2202421911399.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i3/2202421911399/O1CN01Jrizu01MCmexjHGKw_!!2202421911399.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2233,
+                "name": "【24期免息】Apple/苹果 10.2英寸iPad 2019新款平板电脑WiFi版苹果ipad 7代平板支持指纹识别和Apple Pencil",
+                "imgUrl": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/1669409267/O1CN01szjE462IKKvZvCBjL_!!1669409267-0-pixelsss.jpg_360x360Q90.jpg_.webp",
+                "price": "2699.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/1669409267/O1CN01szjE462IKKvZvCBjL_!!1669409267-0-pixelsss.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i2/1669409267/O1CN01AFRzzt2IKKvfYdXEr_!!1669409267.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/1669409267/O1CN01eAawHV2IKKvDw8kRG_!!1669409267.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i2/1669409267/O1CN014XyO2G2IKKvcGLz4u_!!1669409267.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i2/1669409267/O1CN01Kjy4ua2IKKvG2ZR9n_!!1669409267.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/1669409267/O1CN01OR2H2N2IKKvdnfu11_!!1669409267.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/1669409267/O1CN015xxPXo2IKKtpcyIxk_!!1669409267.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i3/1669409267/O1CN01gZPB3i2IKKtpswK21_!!1669409267.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/1669409267/O1CN01Ya7Vkg2IKKtq4sAqy_!!1669409267.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/1669409267/O1CN01xWT1sJ2IKKtslTDy7_!!1669409267.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i4/1669409267/O1CN01blolEy2IKKtnp5m9q_!!1669409267.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i3/1669409267/O1CN01Q36d1d2IKKtsFCcLl_!!1669409267.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i2/1669409267/O1CN01ixHSMp2IKKtrIWSgQ_!!1669409267.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i4/1669409267/O1CN01mR8nj82IKKtnp3UoW_!!1669409267.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i3/1669409267/O1CN01xP7NRp2IKKtmrSLam_!!1669409267.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i3/1669409267/O1CN01LiYrZv2IKKtrIVvRA_!!1669409267.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2234,
+                "name": "[急速发货 正品保障]Apple/苹果 7.9 英寸iPad mini平板电脑 2019新款ipadmini5掌上电脑 支持Apple Pencil",
+                "imgUrl": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i1/1669409267/O1CN01Z6W7gt2IKKvgiLlvb_!!1669409267-0-pixelsss.jpg_360x360Q90.jpg_.webp",
+                "price": "3038.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/1669409267/O1CN01Z6W7gt2IKKvgiLlvb_!!1669409267-0-pixelsss.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/1669409267/O1CN016nQfZ92IKKqdU363U_!!1669409267.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i4/1669409267/O1CN01ITEl3s2IKKrmd87vr_!!1669409267.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/1669409267/O1CN01GELHp82IKKvcGLiSp_!!1669409267.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i2/1669409267/O1CN01VXIY392IKKt9LG6ta_!!1669409267.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/1669409267/O1CN01GELHp82IKKvcGLiSp_!!1669409267.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/1669409267/O1CN01D0bYuT2IKKqtj0HnD_!!1669409267.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/1669409267/O1CN01W6nLAK2IKKrdwK31J_!!1669409267.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/1669409267/O1CN01uItOXo2IKKrbTjuhg_!!1669409267.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/1669409267/O1CN01vG3qCp2IKKrbYwMfR_!!1669409267.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2235,
+                "name": "24期分期/Apple/苹果 iPhone XS Max 官网官方旗舰店8P苹果xsmax全网通11promax手机正品X苹果11新品xr xs",
+                "imgUrl": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/268451883/O1CN01mlezKe1PmSNYQU69x_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "5888.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01mlezKe1PmSNYQU69x_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01aC0wyY1PmSNZq4H4Y_!!268451883.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN01s4AetQ1PmSK5Mgyt2_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN01I4K1jZ1PmSK5WMGPH_!!268451883.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i2/268451883/O1CN01qv5Vlj1PmSK2Gwxp4_!!268451883.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01wLWyPw1PmSNYHmvEH_!!268451883.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN011PmSFfVUeSgGFri_!!268451883.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/268451883/O1CN01Oxw4oH1PmSGgR7gWH_!!268451883.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN011PmSFdw1SiTnfT1_!!268451883.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN011PmSFfztQN2yMQv_!!268451883.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN011PmSFfztl8LW9kp_!!268451883.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN011PmSFEzrYVPqFMH_!!268451883.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN019tCbxs1PmSJynnME1_!!268451883.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01VV40pt1PmSK0LSx5M_!!268451883.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN011PmSFx5ReupsXtq_!!268451883.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i2/268451883/O1CN011PmSEwvJNcSTLlp_!!268451883.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2236,
+                "name": "【当天发货/24期分期】Apple/苹果iPhone 11官方旗舰店国行苹果11全网通4G手机x官方xr 8plus新品11pro xsmax",
+                "imgUrl": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i2/263726286/O1CN01iVB1HB1wJ2FvfyFLR_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "5058.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN01iVB1HB1wJ2FvfyFLR_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN01vpKauE1wJ2FtqyIFU_!!263726286.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01244uvt1wJ2FvfsPKM_!!263726286.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i3/263726286/O1CN01XC4xrj1wJ2Fz0Yydi_!!263726286.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN01WanBDM1wJ2Fy0Wm6E_!!263726286.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN01n6JDwN1wJ2Flj5mXh_!!263726286.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN01PauvzC1wJ2FkELj1k_!!263726286.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN01Ekmvvr1wJ2FWXNDPh_!!263726286.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01w1TP191wJ2EuuKlix_!!263726286.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01wYcfiu1wJ2F293NV6_!!263726286.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01yoseGc1wJ2Fpw1LtY_!!263726286.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i3/263726286/O1CN01ZLyYR11wJ2EyIAy57_!!263726286.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN018l6xv61wJ2FHt28v2_!!263726286.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN0116NNnI1wJ2G0b3jRP_!!263726286.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN01QOlT7Q1wJ2FuBw9Xp_!!263726286.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i3/263726286/O1CN01O6ETUZ1wJ2FwWYAXS_!!263726286.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN01ka09kF1wJ2EGC4Py1_!!263726286.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2237,
+                "name": "【顺丰正常发货】Apple/苹果 2019新款 iPad Air 3 10.5英寸商务办公游戏娱乐设计便携式平板电脑AppleCare+",
+                "imgUrl": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i3/4129257698/O1CN01Bza4Kt26jjVCxv6ul_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "4199.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/4129257698/O1CN01Bza4Kt26jjVCxv6ul_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/4129257698/O1CN016VPcyq26jjVEJGqLP_!!4129257698.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i3/4129257698/O1CN01cVizti26jjUzSF2Ke_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/4129257698/O1CN01cjfmd126jjQF8Ry6u_!!4129257698.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/4129257698/O1CN01Lu6DQU26jjTeys2rN_!!0-item_pic.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i2/4129257698/O1CN01f2E84126jjU9mKSys_!!4129257698.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/4129257698/O1CN01Z3dZEW26jjUKmNo20_!!4129257698.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/4129257698/O1CN01X8zAO626jjQECTeNy_!!4129257698.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/4129257698/O1CN01Al40tr26jjQD2wGiy_!!4129257698.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/4129257698/O1CN01Errwmo26jjQElfnOO_!!4129257698.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i2/4129257698/O1CN01vEjDIa26jjQD43h7w_!!4129257698.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i1/4129257698/O1CN01lQxInq26jjQDCAnGI_!!4129257698.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i1/4129257698/O1CN01CGRG0l26jjQDCABwD_!!4129257698.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i4/4129257698/O1CN01qjxI0N26jjQCD43MZ_!!4129257698.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i1/4129257698/O1CN01IsrJVY26jjQCD4Ft4_!!4129257698.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i1/4129257698/O1CN01K2jFiq26jjQD2ztVf_!!4129257698.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2238,
+                "name": "现货当天发/24期免息Apple 苹果 iPhone 11 全网通智能4G手机8plus官方XR旗舰店11pro正品苹果iPhone11max",
+                "imgUrl": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/263726286/O1CN01EbPVSN1wJ2G4eSEe2_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "5698.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN01EbPVSN1wJ2G4eSEe2_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN01aRBLFh1wJ2G2sGDv1_!!263726286.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN01IiwL3a1wJ2Fz2MkzW_!!263726286.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN01awEneR1wJ2Fvzvo4j_!!263726286.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01Dg3Vhf1wJ2FvhbYTB_!!263726286.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN01n6JDwN1wJ2Flj5mXh_!!263726286.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN01PauvzC1wJ2FkELj1k_!!263726286.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN01Ekmvvr1wJ2FWXNDPh_!!263726286.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01Snr2U41wJ2FJRSLOX_!!263726286.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01XxlWL61wJ2FHtNlJF_!!263726286.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN0116NNnI1wJ2G0b3jRP_!!263726286.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN01QOlT7Q1wJ2FuBw9Xp_!!263726286.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i3/263726286/O1CN01O6ETUZ1wJ2FwWYAXS_!!263726286.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN01VHvedD1wJ2FMMuDbi_!!263726286.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2239,
+                "name": "南冠LED环形灯直播补光灯拍照美颜打光灯摄影柔光拍摄常亮灯自拍",
+                "imgUrl": "https://g-search1.alicdn.com/img/bao/uploaded/i4/imgextra/i4/29690570/O1CN01fpk7pv1G56KswYXiy_!!0-saturn_solar.jpg_360x360Q90.jpg_.webp",
+                "price": "248.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/771942399/O1CN011NfHFb1Tamk1ylC9l_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/771942399/O1CN01hZZUOy1TamjyF1wgA_!!771942399.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/771942399/O1CN01WbcgQ61TamjzUycXT_!!771942399.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i2/771942399/O1CN0187GuiY1Tamk3CI21m_!!771942399.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i3/771942399/O1CN01SoDwbA1TamjzBHe0D_!!771942399.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i2/771942399/O1CN014EoiYH1TamiORi1Vs_!!771942399.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/771942399/O1CN01g4Xo2D1TamiMTbjCC_!!771942399.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/771942399/O1CN01mezUKU1TamiP7S3Zn_!!771942399.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i2/771942399/O1CN01qjI6E71TamkNEGr1p_!!771942399.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i3/771942399/O1CN01jJIOyC1TamjZFINaN_!!771942399.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i1/771942399/O1CN011ZGvCf1TamjZFKj9D_!!771942399.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i4/771942399/O1CN01LXod0L1TamjZkg86q_!!771942399.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i2/771942399/O1CN011rQAmo1Tamja1R3IO_!!771942399.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i3/771942399/O1CN01hJA1ul1TamjbQdOQE_!!771942399.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i3/771942399/O1CN01Rlffo11TamjRyddeL_!!771942399.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i1/771942399/O1CN01TriMe41TamjZFK3ZF_!!771942399.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i2/771942399/O1CN01vL6O7W1TamjanDUed_!!771942399.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i3/771942399/O1CN01gf0mIb1Tamja1S3eG_!!771942399.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i2/771942399/O1CN01srncTJ1TamjWcuxYn_!!771942399.jpg"
+                    },
+                    {
+                        "id": 15,
+                        "url": "https://img.alicdn.com/imgextra/i3/771942399/O1CN01H6ZhZp1TamjZXpen7_!!771942399.jpg"
+                    },
+                    {
+                        "id": 16,
+                        "url": "https://img.alicdn.com/imgextra/i4/771942399/O1CN01pxthlq1TamjZkevJ6_!!771942399.jpg"
+                    },
+                    {
+                        "id": 17,
+                        "url": "https://img.alicdn.com/imgextra/i2/771942399/O1CN01ghpDgx1TamjXbYDlp_!!771942399.jpg"
+                    },
+                    {
+                        "id": 18,
+                        "url": "https://img.alicdn.com/imgextra/i3/771942399/O1CN01R2BNAJ1TamjbQf8Yl_!!771942399.jpg"
+                    },
+                    {
+                        "id": 19,
+                        "url": "https://img.alicdn.com/imgextra/i2/771942399/O1CN01SIc7i61TamjXs9jJk_!!771942399.jpg"
+                    },
+                    {
+                        "id": 20,
+                        "url": "https://img.alicdn.com/imgextra/i2/771942399/O1CN01roi5eM1Tamja1SawL_!!771942399.jpg"
+                    },
+                    {
+                        "id": 21,
+                        "url": "https://img.alicdn.com/imgextra/i1/771942399/O1CN01rWYjUp1TamjdRN9eQ_!!771942399.jpg"
+                    },
+                    {
+                        "id": 22,
+                        "url": "https://img.alicdn.com/imgextra/i3/771942399/O1CN01DJY9mA1TamjcLrBEg_!!771942399.jpg"
+                    },
+                    {
+                        "id": 23,
+                        "url": "https://img.alicdn.com/imgextra/i3/771942399/O1CN017tuQ7a1TamjXs8WVT_!!771942399.jpg"
+                    },
+                    {
+                        "id": 24,
+                        "url": "https://img.alicdn.com/imgextra/i1/771942399/O1CN01xj57Au1TamjWcvEEm_!!771942399.jpg"
+                    },
+                    {
+                        "id": 25,
+                        "url": "https://img.alicdn.com/imgextra/i4/771942399/O1CN01lY1l2W1TamjXbZQdG_!!771942399.jpg"
+                    },
+                    {
+                        "id": 26,
+                        "url": "https://img.alicdn.com/imgextra/i4/771942399/O1CN01HZ43Vp1TamjWcwEcR_!!771942399.jpg"
+                    },
+                    {
+                        "id": 27,
+                        "url": "https://img.alicdn.com/imgextra/i2/771942399/O1CN01lMYjjC1TamjWcvZ25_!!771942399.jpg"
+                    },
+                    {
+                        "id": 28,
+                        "url": "https://img.alicdn.com/imgextra/i3/771942399/O1CN01MjLiVW1TamjXbaMqq_!!771942399.jpg"
+                    },
+                    {
+                        "id": 29,
+                        "url": "https://img.alicdn.com/imgextra/i4/771942399/O1CN01fvxhac1TamjXbZhGY_!!771942399.jpg"
+                    },
+                    {
+                        "id": 30,
+                        "url": "https://img.alicdn.com/imgextra/i1/771942399/O1CN011f30Z01Tamja1r5to_!!771942399.jpg"
+                    },
+                    {
+                        "id": 31,
+                        "url": "https://img.alicdn.com/imgextra/i3/771942399/O1CN013TmUiv1TamjWcv5pQ_!!771942399.jpg"
+                    },
+                    {
+                        "id": 32,
+                        "url": "https://img.alicdn.com/imgextra/i3/771942399/O1CN01lCg0Rp1Tamja1mfPS_!!771942399.jpg"
+                    },
+                    {
+                        "id": 33,
+                        "url": "https://img.alicdn.com/imgextra/i3/771942399/O1CN01Ds42xH1TamjanCLyG_!!771942399.jpg"
+                    },
+                    {
+                        "id": 34,
+                        "url": "https://img.alicdn.com/imgextra/i3/771942399/O1CN01Brf5Po1TamjXs8irc_!!771942399.jpg"
+                    },
+                    {
+                        "id": 35,
+                        "url": "https://img.alicdn.com/imgextra/i3/771942399/O1CN01NUi5rC1TamjZkfaqY_!!771942399.jpg"
+                    },
+                    {
+                        "id": 36,
+                        "url": "https://img.alicdn.com/imgextra/i2/771942399/O1CN01JcE7881Tamja1PqTH_!!771942399.jpg"
+                    },
+                    {
+                        "id": 37,
+                        "url": "https://img.alicdn.com/imgextra/i4/771942399/O1CN01YytAL81TamjRycplX_!!771942399.jpg"
+                    },
+                    {
+                        "id": 38,
+                        "url": "https://img.alicdn.com/imgextra/i1/771942399/O1CN01i8LZCN1TamkRKcUK1_!!771942399.jpg"
+                    },
+                    {
+                        "id": 39,
+                        "url": "https://img.alicdn.com/imgextra/i1/771942399/O1CN01toBCxd1TamkOUXSyI_!!771942399.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2240,
+                "name": "八核9代i5/i7独显高配吃鸡gta5游戏电脑主机组装台式办公家用电脑整机全套送22-32英寸显示器diy网吧电竞电脑",
+                "imgUrl": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/754673569/O1CN01eqGLNX1cEe93YFJ39_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "1188.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i1/754673569/O1CN01oe61B81cEe8zOqpUV_!!754673569.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i1/754673569/O1CN01NZBzde1cEe94XUZPB_!!754673569.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i1/754673569/O1CN012adAeG1cEe8zl5ybC_!!754673569.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i1/754673569/O1CN01DN4lKg1cEe93kTrOT_!!754673569.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i3/754673569/O1CN01bnSjVX1cEe921lgUU_!!754673569.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/754673569/O1CN01i3MENv1cEe94XdACu_!!754673569.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/754673569/O1CN018SmlaF1cEe95lF63X_!!754673569.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/754673569/O1CN01G1qA871cEe98wDNTb_!!754673569.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/754673569/O1CN01ALw1i11cEe92aFMIr_!!754673569.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i2/754673569/O1CN01hncAvf1cEe97ytF8y_!!754673569.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i4/754673569/O1CN01J9OvoP1cEe96wA31B_!!754673569.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i2/754673569/O1CN01HBj5Jb1cEe92aGQiw_!!754673569.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i3/754673569/O1CN01VaxZTt1cEe969dR1P_!!754673569.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i3/754673569/O1CN01KU8Bjx1cEe96AAbJL_!!754673569.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i4/754673569/O1CN01SjpbCo1cEe8tnneLt_!!754673569.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i4/754673569/O1CN01JqYvkG1cEe922qYKq_!!754673569.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i4/754673569/O1CN014RzXEK1cEe98jQPes_!!754673569.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i1/754673569/O1CN01J3DSYj1cEe991XiBH_!!754673569.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i3/754673569/O1CN01KkyfOj1cEe92Q2AXN_!!754673569.jpg"
+                    },
+                    {
+                        "id": 15,
+                        "url": "https://img.alicdn.com/imgextra/i2/754673569/O1CN01UZIfGy1cEe91cCEQ6_!!754673569.jpg"
+                    },
+                    {
+                        "id": 16,
+                        "url": "https://img.alicdn.com/imgextra/i2/754673569/O1CN01ZOQOR81cEe94ActFW_!!754673569.jpg"
+                    },
+                    {
+                        "id": 17,
+                        "url": "https://img.alicdn.com/imgextra/i2/754673569/O1CN01xDoPko1cEe91iFyuU_!!754673569.jpg"
+                    },
+                    {
+                        "id": 18,
+                        "url": "https://img.alicdn.com/imgextra/i4/754673569/O1CN01DuF44A1cEe99oMW3o_!!754673569.jpg"
+                    },
+                    {
+                        "id": 19,
+                        "url": "https://img.alicdn.com/imgextra/i2/754673569/O1CN01jrOc2w1cEe92Xhvok_!!754673569.jpg"
+                    },
+                    {
+                        "id": 20,
+                        "url": "https://img.alicdn.com/imgextra/i1/754673569/O1CN01W44WMI1cEe93UsQMI_!!754673569.jpg"
+                    },
+                    {
+                        "id": 21,
+                        "url": "https://img.alicdn.com/imgextra/i3/754673569/O1CN01odZHHi1cEe975edfO_!!754673569.jpg"
+                    },
+                    {
+                        "id": 22,
+                        "url": "https://img.alicdn.com/imgextra/i2/754673569/O1CN01xbwr8W1cEe955hPir_!!754673569.jpg"
+                    },
+                    {
+                        "id": 23,
+                        "url": "https://img.alicdn.com/imgextra/i3/754673569/O1CN015T0FCY1cEe955hPjE_!!754673569.jpg"
+                    },
+                    {
+                        "id": 24,
+                        "url": "https://img.alicdn.com/imgextra/i4/754673569/O1CN01ohdDYQ1cEe921pRls_!!754673569.jpg"
+                    },
+                    {
+                        "id": 25,
+                        "url": "https://img.alicdn.com/imgextra/i3/754673569/O1CN01NfZ4PP1cEe95kKdSs_!!754673569.jpg"
+                    },
+                    {
+                        "id": 26,
+                        "url": "https://img.alicdn.com/imgextra/i1/754673569/O1CN0189te0Z1cEe9259khF_!!754673569.jpg"
+                    },
+                    {
+                        "id": 27,
+                        "url": "https://img.alicdn.com/imgextra/i1/754673569/O1CN01v776Er1cEe93Y4hLV_!!754673569.jpg"
+                    },
+                    {
+                        "id": 28,
+                        "url": "https://img.alicdn.com/imgextra/i2/754673569/O1CN01fnkalO1cEe91XEICB_!!754673569.jpg"
+                    },
+                    {
+                        "id": 29,
+                        "url": "https://img.alicdn.com/imgextra/i3/754673569/O1CN01vEsUKJ1cEe969dEbF_!!754673569.jpg"
+                    },
+                    {
+                        "id": 30,
+                        "url": "https://img.alicdn.com/imgextra/i1/754673569/O1CN013d7z6u1cEe91hGgTq_!!754673569.jpg"
+                    }
+                ]
+            }
+        ]
+    }
+}

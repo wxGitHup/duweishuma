@@ -1,0 +1,1672 @@
+{
+    "code" : "success",
+    "data" :     {
+        "endRow" : 8,
+        "hasNextPage" : 0,
+        "hasPreviousPage" : 0,
+        "isFirstPage" : 1,
+        "isLastPage" : 1,
+        "navigateFirstPage" : 1,
+        "navigateLastPage" : 1,
+        "navigatePages" : 8,
+        "navigatepageNums" : 1,
+        "nextPage" : 0,
+        "pageNum" : 1,
+        "pageSize" : 10,
+        "pages" : 1,
+        "prePage" : 0,
+        "size" : 8,
+        "startRow" : 1,
+        "total" : 8,
+        "list" :         [
+            {
+                "id": 2281,
+                "name": "4年质保】华为FreeLace无线蓝牙降噪耳机挂脖式运动跑步原装正品",
+                "imgUrl": "https://g-search1.alicdn.com/img/bao/uploaded/i4/imgextra/i4/113221094/O1CN01e7p7xa1Jx5svzAyZz_!!0-saturn_solar.jpg_360x360Q90.jpg_.webp",
+                "price": "499.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i4/2679012998/O1CN01biIitf1Y17zjX3dni_!!2679012998.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i1/2679012998/O1CN01fWOIMX1Y17zQfZBIM_!!2679012998.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i1/2679012998/O1CN01eIYHuH1Y17xYB6ZGC_!!2679012998.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i3/2679012998/O1CN01pyyDJL1Y17xaqRYUZ_!!2679012998.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i1/2679012998/O1CN01maxMtD1Y17xeWKCPd_!!2679012998.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/2679012998/O1CN01olly1r1Y17zdDFZCA_!!2679012998.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/2679012998/O1CN01wEJjd41Y17x8YcSvd_!!2679012998.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i3/2679012998/O1CN01lkOB6Q1Y17zhwNsVH_!!2679012998.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i3/2679012998/O1CN01cpYlh81Y17zX9nDoe_!!2679012998.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i3/2679012998/O1CN01degiT01Y17z3n6q8b_!!2679012998.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i1/2679012998/O1CN01LKejSS1Y17x8ycUwr_!!2679012998.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i1/2679012998/O1CN013ynOdL1Y17xCLJCtn_!!2679012998.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i1/2679012998/O1CN015tzyQ91Y17x1KPypj_!!2679012998.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i3/2679012998/O1CN011cg4dR1Y17wtdf5Ip_!!2679012998.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i3/2679012998/O1CN01ra0uDF1Y17wuTJGUc_!!2679012998.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i4/2679012998/O1CN01mohxLu1Y17wtehjr7_!!2679012998.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i1/2679012998/O1CN01cYpAHD1Y17wtWKdTR_!!2679012998.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i1/2679012998/O1CN01V9Sp311Y17wrYWomE_!!2679012998.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i1/2679012998/O1CN01FqqV251Y17wrYYE5E_!!2679012998.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2282,
+                "name": "24期免息当天发 降500Huawei/华为 Mate 30 手机Mate30官方旗舰店正品p30pro新款20x全网通5g直降价P30荣耀rs",
+                "imgUrl": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i2/268451883/O1CN01LXoCpc1PmSNhW5EWD_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "3699.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i3/268451883/O1CN019mzDS31PmSNcx5E8g_!!268451883.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i1/268451883/O1CN01gb2MSV1PmSNdEv02X_!!268451883.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i3/268451883/O1CN01VIM7jh1PmSNdEvwHB_!!268451883.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i1/268451883/O1CN01jInGhA1PmSNhu8pWZ_!!268451883.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i2/268451883/O1CN01ToZwWP1PmSNdkJACX_!!268451883.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01Qi7hOX1PmSNcwJYlw_!!268451883.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i2/268451883/O1CN01F83vw61PmSNawN9Hn_!!268451883.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN014NSKvt1PmSNfHE2cR_!!268451883.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01mrh5dh1PmSNdjH53s_!!268451883.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i2/268451883/O1CN01YQoWuY1PmSNekytqs_!!268451883.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN01uxTTHZ1PmSNaZ8Efc_!!268451883.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01f7TncW1PmSNg2gkTU_!!268451883.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01iziEAr1PmSNcmPoj5_!!268451883.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01z9XGPJ1PmSNfYFOJP_!!268451883.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01KIulpV1PmSNftTyjY_!!268451883.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i2/268451883/O1CN01LJglaP1PmSNhj998u_!!268451883.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i2/268451883/O1CN01UEejyc1PmSMoNlH9A_!!268451883.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01NXhG381PmSN0CgeEQ_!!268451883.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01phzByD1PmSMeJzDDm_!!268451883.jpg"
+                    },
+                    {
+                        "id": 15,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01Lm5PXd1PmSNNPvDMj_!!268451883.jpg"
+                    },
+                    {
+                        "id": 16,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN018kCwSA1PmSMgfU5Cv_!!268451883.jpg"
+                    },
+                    {
+                        "id": 17,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01mFyLuU1PmSMf6nyki_!!268451883.jpg"
+                    },
+                    {
+                        "id": 18,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN01388HdS1PmSMhQnvRv_!!268451883.jpg"
+                    },
+                    {
+                        "id": 19,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01UPxM1o1PmSMecSb0g_!!268451883.jpg"
+                    },
+                    {
+                        "id": 20,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN01WxAYc71PmSN8qTYS2_!!268451883.jpg"
+                    },
+                    {
+                        "id": 21,
+                        "url": "https://img.alicdn.com/imgextra/i2/268451883/O1CN01Iy9zJa1PmSMecT46p_!!268451883.jpg"
+                    },
+                    {
+                        "id": 22,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN012Do3mO1PmSMhQo7wz_!!268451883.jpg"
+                    },
+                    {
+                        "id": 23,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01Fa7kOe1PmSMgVze7A_!!268451883.jpg"
+                    },
+                    {
+                        "id": 24,
+                        "url": "https://img.alicdn.com/imgextra/i2/268451883/O1CN01x6t5N51PmSMeJxGh4_!!268451883.jpg"
+                    },
+                    {
+                        "id": 25,
+                        "url": "https://img.alicdn.com/imgextra/i2/268451883/O1CN01bkXsdy1PmSLuC8qbF_!!268451883.jpg"
+                    },
+                    {
+                        "id": 26,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN01TELKaD1PmSLvCNwSV_!!268451883.jpg"
+                    },
+                    {
+                        "id": 27,
+                        "url": "https://img.alicdn.com/imgextra/i2/268451883/O1CN01vGOkSX1PmSLry9Yx0_!!268451883.jpg"
+                    },
+                    {
+                        "id": 28,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01CsdEeK1PmSM0noKi3_!!268451883.jpg"
+                    },
+                    {
+                        "id": 29,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01EHrwIi1PmSM0nofVl_!!268451883.jpg"
+                    },
+                    {
+                        "id": 30,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN01k8njN21PmSLxbgOO0_!!268451883.jpg"
+                    },
+                    {
+                        "id": 31,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01V4lDDJ1PmSLzVymHw_!!268451883.jpg"
+                    },
+                    {
+                        "id": 32,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN01EAj3hC1PmSLz7hYGO_!!268451883.jpg"
+                    },
+                    {
+                        "id": 33,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN01Kc9EEf1PmSLx5jBcr_!!268451883.jpg"
+                    },
+                    {
+                        "id": 34,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01qIpySs1PmSLzIBDWJ_!!268451883.jpg"
+                    },
+                    {
+                        "id": 35,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01ZjkOXk1PmSLvlLzy1_!!268451883.jpg"
+                    },
+                    {
+                        "id": 36,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN019hidCw1PmSLx5iv0q_!!268451883.jpg"
+                    },
+                    {
+                        "id": 37,
+                        "url": "https://img.alicdn.com/imgextra/i2/268451883/O1CN01mNpXrM1PmSLxquqT4_!!268451883.jpg"
+                    },
+                    {
+                        "id": 38,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN01PKxHA71PmSLxnagDK_!!268451883.jpg"
+                    },
+                    {
+                        "id": 39,
+                        "url": "https://img.alicdn.com/imgextra/i2/268451883/O1CN01wW7WCo1PmSM021tKJ_!!268451883.jpg"
+                    },
+                    {
+                        "id": 40,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01xDFMjL1PmSLxNwBq0_!!268451883.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2283,
+                "name": "【直降500/顺丰当天发】Huawei/华为 Mate 30 5G版 手机官网官方旗舰店华为手机mate30pro5g全网通mate40p30",
+                "imgUrl": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i2/263726286/O1CN01e0aiIp1wJ2G2efH4Z_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "3999.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i4/263726286/O1CN010d2O2M1wJ2G62MgAi_!!263726286.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i1/263726286/O1CN01J7PsGu1wJ2FzFtL2y_!!263726286.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i1/263726286/O1CN01uSvrbf1wJ2FzY6Hq8_!!263726286.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i2/263726286/O1CN01Ce0Z8y1wJ2FzuxHLe_!!263726286.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i1/263726286/O1CN01utBU781wJ2Fpc3dbv_!!263726286.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN01zM9sap1wJ2G14G6Xx_!!263726286.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01ap6o9w1wJ2FvnHmP0_!!263726286.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN01P6fU3i1wJ2Fyv6vZw_!!263726286.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN01W415ZR1wJ2G0adij1_!!263726286.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i3/263726286/O1CN019P8XkQ1wJ2FwWamY8_!!263726286.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN01IDSUrr1wJ2G63dxsg_!!263726286.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i3/263726286/O1CN01MBNe1n1wJ2G1WwR8K_!!263726286.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN01LMq4811wJ2FjbcQmD_!!263726286.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN0117eWqv1wJ2FdZAtHa_!!263726286.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i3/263726286/O1CN01QRfIDf1wJ2G2FB7Up_!!263726286.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN01R1fQDM1wJ2FuZMvgR_!!263726286.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01481ZjY1wJ2FyDN6tV_!!263726286.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01QUGtT01wJ2FnXRNGp_!!263726286.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN01A1zvhX1wJ2FhFOkcM_!!263726286.jpg"
+                    },
+                    {
+                        "id": 15,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01m5Mvut1wJ2FVzq5c9_!!263726286.jpg"
+                    },
+                    {
+                        "id": 16,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN014nWqIS1wJ2G34drZ2_!!263726286.jpg"
+                    },
+                    {
+                        "id": 17,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN01LP63rZ1wJ2FzYzo0P_!!263726286.jpg"
+                    },
+                    {
+                        "id": 18,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01ICFrFv1wJ2FOKnoXj_!!263726286.jpg"
+                    },
+                    {
+                        "id": 19,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN0161UABC1wJ2FnJiBE1_!!263726286.jpg"
+                    },
+                    {
+                        "id": 20,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN015HLyyv1wJ2Fbu2Nsp_!!263726286.jpg"
+                    },
+                    {
+                        "id": 21,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN01VBcrL71wJ2FrE476G_!!263726286.jpg"
+                    },
+                    {
+                        "id": 22,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN01HQogSm1wJ2Fhlvp89_!!263726286.jpg"
+                    },
+                    {
+                        "id": 23,
+                        "url": "https://img.alicdn.com/imgextra/i3/263726286/O1CN01fTZbmb1wJ2FeKr5y1_!!263726286.jpg"
+                    },
+                    {
+                        "id": 24,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01aJyy761wJ2FZAS7yA_!!263726286.jpg"
+                    },
+                    {
+                        "id": 25,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN01WWhrVv1wJ2FeBj944_!!263726286.jpg"
+                    },
+                    {
+                        "id": 26,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN018ccojx1wJ2FdINXNo_!!263726286.jpg"
+                    },
+                    {
+                        "id": 27,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01ltPnWW1wJ2FbYcWod_!!263726286.jpg"
+                    },
+                    {
+                        "id": 28,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN01GuCuKx1wJ2EgDyMIG_!!263726286.jpg"
+                    },
+                    {
+                        "id": 29,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN019BynCX1wJ2Ei76QxJ_!!263726286.jpg"
+                    },
+                    {
+                        "id": 30,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN01xYpGSY1wJ2EiZxVEi_!!263726286.jpg"
+                    },
+                    {
+                        "id": 31,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN01Kdz21r1wJ2Ek60k84_!!263726286.jpg"
+                    },
+                    {
+                        "id": 32,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN01PxGWPw1wJ2EgDxUF7_!!263726286.jpg"
+                    },
+                    {
+                        "id": 33,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN01obdEDA1wJ2Eia3wvZ_!!263726286.jpg"
+                    },
+                    {
+                        "id": 34,
+                        "url": "https://img.alicdn.com/imgextra/i3/263726286/O1CN01LSObEA1wJ2EaaoOuJ_!!263726286.jpg"
+                    },
+                    {
+                        "id": 35,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01bolZ0E1wJ2EgDzACc_!!263726286.jpg"
+                    },
+                    {
+                        "id": 36,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01xbYneb1wJ2EjuhegJ_!!263726286.jpg"
+                    },
+                    {
+                        "id": 37,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN01ypBnGW1wJ2EmMTy93_!!263726286.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2284,
+                "name": "当天发货【24期免息】Huawei/华为nova 6 5G/4G官方旗舰店正品华为nova6手机5g全网通p30直降mate30新款5pro",
+                "imgUrl": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i2/2924891464/O1CN01AjsBcx1MgYQf5eK3G_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "2499.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i2/2924891464/O1CN01lkv6QF1MgYQcVigxa_!!2924891464.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i2/2924891464/O1CN017tat0q1MgYQZHY5Ll_!!2924891464.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i4/2924891464/O1CN01KwL2OD1MgYQFIXqYt_!!2924891464.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i3/2924891464/O1CN01h032Uy1MgYQI15OXg_!!2924891464.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i2/2924891464/O1CN01cFjgVX1MgYQSWVXDw_!!2924891464.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/2924891464/O1CN01OsRga81MgYQd1E29J_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/2924891464/O1CN01icjq121MgYQdrlbXD_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/2924891464/O1CN01urCkVX1MgYQfah0Kw_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/2924891464/O1CN01TgQccD1MgYQaDei4R_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/2924891464/O1CN01KBULRH1MgYQdRlHzN_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i2/2924891464/O1CN01dJWaiV1MgYQdrlP4Q_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i4/2924891464/O1CN01WWo3J11MgYQgMbV5p_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i2/2924891464/O1CN01DmfteF1MgYQfMCjzE_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i4/2924891464/O1CN01YLLIcg1MgYQbnb56l_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i4/2924891464/O1CN01qh5ftY1MgYQdRkxCg_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i1/2924891464/O1CN015RVKvR1MgYQfahGzJ_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i3/2924891464/O1CN01cKNpPb1MgYQfahfvM_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i3/2924891464/O1CN01XxDALe1MgYQgMZHvB_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i2/2924891464/O1CN016lgFUq1MgYQd1FygO_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 15,
+                        "url": "https://img.alicdn.com/imgextra/i2/2924891464/O1CN01CVl79T1MgYQdJLvqv_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 16,
+                        "url": "https://img.alicdn.com/imgextra/i4/2924891464/O1CN01zDe9641MgYQfMDoUl_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 17,
+                        "url": "https://img.alicdn.com/imgextra/i2/2924891464/O1CN01PskweA1MgYQgMZxUP_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 18,
+                        "url": "https://img.alicdn.com/imgextra/i2/2924891464/O1CN01M6oHRG1MgYQbBKxkj_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 19,
+                        "url": "https://img.alicdn.com/imgextra/i3/2924891464/O1CN01xZKtzT1MgYQej1x1m_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 20,
+                        "url": "https://img.alicdn.com/imgextra/i4/2924891464/O1CN019F5Big1MgYQEg6KpW_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 21,
+                        "url": "https://img.alicdn.com/imgextra/i1/2924891464/O1CN0123OGRF1MgYQE8gI8J_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 22,
+                        "url": "https://img.alicdn.com/imgextra/i2/2924891464/O1CN01QIETc71MgYQCPMjIg_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 23,
+                        "url": "https://img.alicdn.com/imgextra/i1/2924891464/O1CN01405y3u1MgYQFVsuIz_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 24,
+                        "url": "https://img.alicdn.com/imgextra/i3/2924891464/O1CN01Ulrptd1MgYQE8gI8T_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 25,
+                        "url": "https://img.alicdn.com/imgextra/i4/2924891464/O1CN01vwhxdQ1MgYQDXXRHf_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 26,
+                        "url": "https://img.alicdn.com/imgextra/i3/2924891464/O1CN01v6ugS61MgYQIgLveN_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 27,
+                        "url": "https://img.alicdn.com/imgextra/i2/2924891464/O1CN01X0Yrhb1MgYQGIIlIt_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 28,
+                        "url": "https://img.alicdn.com/imgextra/i2/2924891464/O1CN01Vu5jIn1MgYPtYFFeU_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 29,
+                        "url": "https://img.alicdn.com/imgextra/i4/2924891464/O1CN01zyG4Ro1MgYPqvfjL9_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 30,
+                        "url": "https://img.alicdn.com/imgextra/i4/2924891464/O1CN01RPNfzJ1MgYPu6QcKR_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 31,
+                        "url": "https://img.alicdn.com/imgextra/i3/2924891464/O1CN01IgXemL1MgYPokwapb_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 32,
+                        "url": "https://img.alicdn.com/imgextra/i3/2924891464/O1CN01nCKmGv1MgYPtYHGLj_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 33,
+                        "url": "https://img.alicdn.com/imgextra/i1/2924891464/O1CN01pdNE6q1MgYPqgltxi_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 34,
+                        "url": "https://img.alicdn.com/imgextra/i2/2924891464/O1CN01JWYC3a1MgYPnluh29_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 35,
+                        "url": "https://img.alicdn.com/imgextra/i2/2924891464/O1CN01XqCmsa1MgYPqvh0K5_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 36,
+                        "url": "https://img.alicdn.com/imgextra/i1/2924891464/O1CN01Vlg8BS1MgYPj7pWhG_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 37,
+                        "url": "https://img.alicdn.com/imgextra/i2/2924891464/O1CN01OAkZKF1MgYPp13YeS_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 38,
+                        "url": "https://img.alicdn.com/imgextra/i1/2924891464/O1CN01bnoeeQ1MgYPrDfNtq_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 39,
+                        "url": "https://img.alicdn.com/imgextra/i2/2924891464/O1CN017SbVXj1MgYPokvzRm_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 40,
+                        "url": "https://img.alicdn.com/imgextra/i4/2924891464/O1CN01xYIiad1MgYPv826Gk_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 41,
+                        "url": "https://img.alicdn.com/imgextra/i2/2924891464/O1CN01HgChvb1MgYPtYMETm_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 42,
+                        "url": "https://img.alicdn.com/imgextra/i1/2924891464/O1CN01BEqZ3n1MgYPqQ9mre_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 43,
+                        "url": "https://img.alicdn.com/imgextra/i1/2924891464/O1CN01WvVcP91MgYPsmylNY_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 44,
+                        "url": "https://img.alicdn.com/imgextra/i4/2924891464/O1CN01QWpg9Y1MgYPu6WSVO_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 45,
+                        "url": "https://img.alicdn.com/imgextra/i4/2924891464/O1CN01tueJsk1MgYPol2dU8_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 46,
+                        "url": "https://img.alicdn.com/imgextra/i1/2924891464/O1CN01lYZW9p1MgYPtYOFEG_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 47,
+                        "url": "https://img.alicdn.com/imgextra/i4/2924891464/O1CN01EN8GIP1MgYPrDlUjJ_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 48,
+                        "url": "https://img.alicdn.com/imgextra/i2/2924891464/O1CN01PLRIBB1MgYPp19Kek_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 49,
+                        "url": "https://img.alicdn.com/imgextra/i2/2924891464/O1CN01F6mE5E1MgYPuhOak4_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 50,
+                        "url": "https://img.alicdn.com/imgextra/i2/2924891464/O1CN01ckMmFc1MgYPp1BkIy_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 51,
+                        "url": "https://img.alicdn.com/imgextra/i3/2924891464/O1CN01b3zPVV1MgYPqgssny_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 52,
+                        "url": "https://img.alicdn.com/imgextra/i3/2924891464/O1CN01J22y5M1MgYPse3RAa_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 53,
+                        "url": "https://img.alicdn.com/imgextra/i4/2924891464/O1CN01pcGgqc1MgYPp1ACex_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 54,
+                        "url": "https://img.alicdn.com/imgextra/i3/2924891464/O1CN01rCc58b1MgYPu6WnKz_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 55,
+                        "url": "https://img.alicdn.com/imgextra/i3/2924891464/O1CN01oxY6uc1MgYPqgrk6q_!!2924891464.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2285,
+                "name": "24期免息当天发减100Huawei/华为 nova 5 Pro华为手机官方旗舰店正品5g全网通p20/p30pro新款nova6直降mate20",
+                "imgUrl": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i1/268451883/O1CN01yE7QRt1PmSNeszkXG_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "2499.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01yE7QRt1PmSNeszkXG_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN01H6boH71PmSNWyH6fW_!!268451883.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01zzIOAW1PmSKOru0Iw_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01uNeR4E1PmSKQBps3u_!!268451883.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01OBiRuO1PmSKRiXKGo_!!268451883.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01noLk6G1PmSNess1w3_!!268451883.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i2/268451883/O1CN01c9q4vx1PmSNfG8UOF_!!268451883.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/268451883/O1CN01iEnIku1PmSNekkWyj_!!268451883.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN01WSjy011PmSNb3UKr1_!!268451883.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01LepZyI1PmSNAlzu3A_!!268451883.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01a5Nrnw1PmSNQDlghG_!!268451883.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN01AKaDei1PmSNh4SIpU_!!268451883.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01hic9dW1PmSNE7qaG2_!!268451883.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN013WTC6w1PmSMiANA4q_!!268451883.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01kPoJjR1PmSNhol9pZ_!!268451883.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01Q2s6Wg1PmSNVy3Lea_!!268451883.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01s6SAcg1PmSMNTJb3j_!!268451883.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01dUKWc61PmSMNTJb3v_!!268451883.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i2/268451883/O1CN01tn00PN1PmSNNQDCoL_!!268451883.jpg"
+                    },
+                    {
+                        "id": 15,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01OC5c6E1PmSMNU5vqs_!!268451883.jpg"
+                    },
+                    {
+                        "id": 16,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN0147i48O1PmSNVLLi7A_!!268451883.jpg"
+                    },
+                    {
+                        "id": 17,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01N47dkp1PmSMFTgcJy_!!268451883.jpg"
+                    },
+                    {
+                        "id": 18,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN018zhz951PmSMLM6Ij4_!!268451883.jpg"
+                    },
+                    {
+                        "id": 19,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN01TcCCTo1PmSMFTdX5z_!!268451883.jpg"
+                    },
+                    {
+                        "id": 20,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01tyqvYN1PmSMLktrXv_!!268451883.jpg"
+                    },
+                    {
+                        "id": 21,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01w5m4CC1PmSMQoyqsu_!!268451883.jpg"
+                    },
+                    {
+                        "id": 22,
+                        "url": "https://img.alicdn.com/imgextra/i2/268451883/O1CN01Mf2UKv1PmSNKi1n4M_!!268451883.jpg"
+                    },
+                    {
+                        "id": 23,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01T5Y0MC1PmSMP05TsV_!!268451883.jpg"
+                    },
+                    {
+                        "id": 24,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01dOnoMC1PmSNMmJwEf_!!268451883.jpg"
+                    },
+                    {
+                        "id": 25,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01kfyNJB1PmSKcyr5qV_!!268451883.jpg"
+                    },
+                    {
+                        "id": 26,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN01l1lPMc1PmSLYTIn6M_!!268451883.jpg"
+                    },
+                    {
+                        "id": 27,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01ISojEw1PmSKVNq4ls_!!268451883.jpg"
+                    },
+                    {
+                        "id": 28,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN01ASdyCM1PmSKaAe7vG_!!268451883.jpg"
+                    },
+                    {
+                        "id": 29,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN01iVrIvo1PmSKYZl49w_!!268451883.jpg"
+                    },
+                    {
+                        "id": 30,
+                        "url": "https://img.alicdn.com/imgextra/i2/268451883/O1CN0171Kxvg1PmSKVNrxCU_!!268451883.jpg"
+                    },
+                    {
+                        "id": 31,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN01gbzbu01PmSKWihwq3_!!268451883.jpg"
+                    },
+                    {
+                        "id": 32,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01wSmhNB1PmSKaAenSm_!!268451883.jpg"
+                    },
+                    {
+                        "id": 33,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01uNFi2p1PmSKVkxvzx_!!268451883.jpg"
+                    },
+                    {
+                        "id": 34,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01KuPHSs1PmSKZyUXZF_!!268451883.jpg"
+                    },
+                    {
+                        "id": 35,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01cRoB6P1PmSKUT7m0K_!!268451883.jpg"
+                    },
+                    {
+                        "id": 36,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01UeFPxD1PmSKXPhGCH_!!268451883.jpg"
+                    },
+                    {
+                        "id": 37,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01DpxXvu1PmSKaAfKlA_!!268451883.jpg"
+                    },
+                    {
+                        "id": 38,
+                        "url": "https://img.alicdn.com/imgextra/i2/268451883/O1CN01cMrT0g1PmSKaedosN_!!268451883.jpg"
+                    },
+                    {
+                        "id": 39,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01nsjPUr1PmSKXLKE3t_!!268451883.jpg"
+                    },
+                    {
+                        "id": 40,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN019PJWyn1PmSKXSTfMc_!!268451883.jpg"
+                    },
+                    {
+                        "id": 41,
+                        "url": "https://img.alicdn.com/imgextra/i3/268451883/O1CN01GHR0aX1PmSKUT7dhk_!!268451883.jpg"
+                    },
+                    {
+                        "id": 42,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01IDuo821PmSKYav6Nt_!!268451883.jpg"
+                    },
+                    {
+                        "id": 43,
+                        "url": "https://img.alicdn.com/imgextra/i4/268451883/O1CN01rH3DXA1PmSKWifjea_!!268451883.jpg"
+                    },
+                    {
+                        "id": 44,
+                        "url": "https://img.alicdn.com/imgextra/i1/268451883/O1CN01OgKe5n1PmSKXLMEoX_!!268451883.jpg"
+                    },
+                    {
+                        "id": 45,
+                        "url": "https://img.alicdn.com/imgextra/i2/268451883/O1CN01Uhohum1PmSKYG1s80_!!268451883.jpg"
+                    },
+                    {
+                        "id": 46,
+                        "url": "https://img.alicdn.com/imgextra/i2/268451883/O1CN01HPUsKP1PmSKZyUoDg_!!268451883.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2286,
+                "name": "【直降500/顺丰当天发】Huawei/华为 Mate 30 Pro 5G版官方旗舰店华为手机mate30pro5g全网通新款正品mate40",
+                "imgUrl": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i3/263726286/O1CN01SxxegO1wJ2G7bomql_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "5399.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i2/263726286/O1CN01sBWFbh1wJ2G1C2vMJ_!!263726286.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i3/263726286/O1CN01rTrfla1wJ2FylowHo_!!263726286.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i3/263726286/O1CN016T0ShP1wJ2G3iIFAP_!!263726286.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i2/263726286/O1CN01F3Stg71wJ2FzZi1We_!!263726286.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i4/263726286/O1CN01rY0O7c1wJ2FnPkCcZ_!!263726286.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN01zM9sap1wJ2G14G6Xx_!!263726286.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01ap6o9w1wJ2FvnHmP0_!!263726286.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN01P6fU3i1wJ2Fyv6vZw_!!263726286.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN01nbIfYv1wJ2G0EyPmK_!!263726286.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i3/263726286/O1CN0135zrzq1wJ2FwgmEpc_!!263726286.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i3/263726286/O1CN01D3ZmDo1wJ2G2znbgE_!!263726286.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i3/263726286/O1CN01MBNe1n1wJ2G1WwR8K_!!263726286.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01Q3xGwI1wJ2FllV4jg_!!263726286.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN0117eWqv1wJ2FdZAtHa_!!263726286.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01JTIylw1wJ2G4w2U9F_!!263726286.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN01d5DO9F1wJ2G4NQoKZ_!!263726286.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01481ZjY1wJ2FyDN6tV_!!263726286.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01QUGtT01wJ2FnXRNGp_!!263726286.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN01KMBxEx1wJ2Ff8xFza_!!263726286.jpg"
+                    },
+                    {
+                        "id": 15,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN01VwHdBV1wJ2FXysidy_!!263726286.jpg"
+                    },
+                    {
+                        "id": 16,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN014nWqIS1wJ2G34drZ2_!!263726286.jpg"
+                    },
+                    {
+                        "id": 17,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN01LP63rZ1wJ2FzYzo0P_!!263726286.jpg"
+                    },
+                    {
+                        "id": 18,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01DoMvv91wJ2FW00tro_!!263726286.jpg"
+                    },
+                    {
+                        "id": 19,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN01TyGvKj1wJ2Fpyu5ju_!!263726286.jpg"
+                    },
+                    {
+                        "id": 20,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01L5EU2m1wJ2FbX9pXT_!!263726286.jpg"
+                    },
+                    {
+                        "id": 21,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN01VBcrL71wJ2FrE476G_!!263726286.jpg"
+                    },
+                    {
+                        "id": 22,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN01JM7JEJ1wJ2FgobjBJ_!!263726286.jpg"
+                    },
+                    {
+                        "id": 23,
+                        "url": "https://img.alicdn.com/imgextra/i3/263726286/O1CN01fTZbmb1wJ2FeKr5y1_!!263726286.jpg"
+                    },
+                    {
+                        "id": 24,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01aJyy761wJ2FZAS7yA_!!263726286.jpg"
+                    },
+                    {
+                        "id": 25,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN01WWhrVv1wJ2FeBj944_!!263726286.jpg"
+                    },
+                    {
+                        "id": 26,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN018ccojx1wJ2FdINXNo_!!263726286.jpg"
+                    },
+                    {
+                        "id": 27,
+                        "url": "https://img.alicdn.com/imgextra/i3/263726286/O1CN01eNhdFd1wJ2EmaC3Yg_!!263726286.jpg"
+                    },
+                    {
+                        "id": 28,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01ltPnWW1wJ2FbYcWod_!!263726286.jpg"
+                    },
+                    {
+                        "id": 29,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN01G5SfYq1wJ2Ej0S7JL_!!263726286.jpg"
+                    },
+                    {
+                        "id": 30,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN01YReDqu1wJ2EsZi8tk_!!263726286.jpg"
+                    },
+                    {
+                        "id": 31,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN01PYN8VF1wJ2EsZfBvW_!!263726286.jpg"
+                    },
+                    {
+                        "id": 32,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN019H3Njb1wJ2Er0gcgn_!!263726286.jpg"
+                    },
+                    {
+                        "id": 33,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN01KX2Fv11wJ2Eot9zdJ_!!263726286.jpg"
+                    },
+                    {
+                        "id": 34,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01NKipmc1wJ2Ej0TrOJ_!!263726286.jpg"
+                    },
+                    {
+                        "id": 35,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN012gOdTL1wJ2Euqbt7Z_!!263726286.jpg"
+                    },
+                    {
+                        "id": 36,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01KFgqwg1wJ2EqELWuR_!!263726286.jpg"
+                    },
+                    {
+                        "id": 37,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN01ZY4woV1wJ2EtIqi3C_!!263726286.jpg"
+                    },
+                    {
+                        "id": 38,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01hbBmSe1wJ2EodMldo_!!263726286.jpg"
+                    },
+                    {
+                        "id": 39,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN01CQSriF1wJ2Er20FpZ_!!263726286.jpg"
+                    },
+                    {
+                        "id": 40,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN018BUAwa1wJ2EqY8Y2n_!!263726286.jpg"
+                    },
+                    {
+                        "id": 41,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN01DGNmC31wJ2EqmCDRE_!!263726286.jpg"
+                    },
+                    {
+                        "id": 42,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01LQJvH11wJ2EuOhxhC_!!263726286.jpg"
+                    },
+                    {
+                        "id": 43,
+                        "url": "https://img.alicdn.com/imgextra/i1/263726286/O1CN01dj5TYq1wJ2EtIoto9_!!263726286.jpg"
+                    },
+                    {
+                        "id": 44,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01rOeZQ41wJ2EsZhCgR_!!263726286.jpg"
+                    },
+                    {
+                        "id": 45,
+                        "url": "https://img.alicdn.com/imgextra/i2/263726286/O1CN01YcW8Jh1wJ2EotBT7i_!!263726286.jpg"
+                    },
+                    {
+                        "id": 46,
+                        "url": "https://img.alicdn.com/imgextra/i4/263726286/O1CN01g6CqCa1wJ2EqmCYE8_!!263726286.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2287,
+                "name": "当天发货HUAWEI/华为Mate305G版手机华为官方旗舰店全网通华为5g手机正品直降p30pro官网mate30pro5g新手机",
+                "imgUrl": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i3/3063905773/O1CN01HhcNLz1sW54fj2rqg_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "3699.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/3063905773/O1CN01HhcNLz1sW54fj2rqg_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i2/3063905773/O1CN01C92aZl1sW54lc6RKC_!!3063905773.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i3/3063905773/O1CN01FHksAH1sW54cItpoG_!!3063905773.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i2/3063905773/O1CN01ZV1KQf1sW53VFkE0L_!!3063905773.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i2/3063905773/O1CN01bgLeqM1sW53PZDyf1_!!3063905773.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i2/3063905773/O1CN01rmGOUJ1sW54jABwHp_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/3063905773/O1CN01SJrk2s1sW54UH9IQp_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/3063905773/O1CN01zb7GJP1sW54gHUcuE_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/3063905773/O1CN01ab1wZp1sW54YhmUyo_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/3063905773/O1CN012uLLNO1sW54jtqgfC_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i3/3063905773/O1CN01sDXas71sW54UHAuCN_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i4/3063905773/O1CN01UQL0jj1sW54fc0v3a_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i1/3063905773/O1CN01Hhdgr31sW54gnptNq_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i4/3063905773/O1CN01ELYZcl1sW54c7DpZA_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i2/3063905773/O1CN01EtNfcY1sW54cbG65a_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i2/3063905773/O1CN01YVmVy31sW54eoHgnZ_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i3/3063905773/O1CN01s5tUgv1sW54aT6WvM_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i1/3063905773/O1CN01U1QI4F1sW54S0ofuX_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i4/3063905773/O1CN01y8bix61sW53SikWdj_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 15,
+                        "url": "https://img.alicdn.com/imgextra/i3/3063905773/O1CN01srm5XN1sW53RzJdAr_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 16,
+                        "url": "https://img.alicdn.com/imgextra/i3/3063905773/O1CN01EGYZxy1sW5407cKJw_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 17,
+                        "url": "https://img.alicdn.com/imgextra/i2/3063905773/O1CN01WuJHSm1sW53xujJkj_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 18,
+                        "url": "https://img.alicdn.com/imgextra/i3/3063905773/O1CN01gbxddT1sW541XmUNS_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 19,
+                        "url": "https://img.alicdn.com/imgextra/i3/3063905773/O1CN01LlHfFi1sW541Xl55J_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 20,
+                        "url": "https://img.alicdn.com/imgextra/i3/3063905773/O1CN01BlAERk1sW542S4kIt_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 21,
+                        "url": "https://img.alicdn.com/imgextra/i4/3063905773/O1CN01gsy9q21sW5407TXYM_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 22,
+                        "url": "https://img.alicdn.com/imgextra/i1/3063905773/O1CN01OXE5Tj1sW53RzHgZ3_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 23,
+                        "url": "https://img.alicdn.com/imgextra/i3/3063905773/O1CN015dlNfY1sW53VJwRJu_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 24,
+                        "url": "https://img.alicdn.com/imgextra/i1/3063905773/O1CN01CKZT2N1sW53RkghNN_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 25,
+                        "url": "https://img.alicdn.com/imgextra/i4/3063905773/O1CN01mKEydl1sW53UDrYam_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 26,
+                        "url": "https://img.alicdn.com/imgextra/i4/3063905773/O1CN01vUSyXg1sW53UDpLNO_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 27,
+                        "url": "https://img.alicdn.com/imgextra/i3/3063905773/O1CN01mFmZ4P1sW53RzGXt7_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 28,
+                        "url": "https://img.alicdn.com/imgextra/i1/3063905773/O1CN01jAdSBZ1sW53RCUjKt_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 29,
+                        "url": "https://img.alicdn.com/imgextra/i2/3063905773/O1CN018nvu5r1sW53SiiNZT_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 30,
+                        "url": "https://img.alicdn.com/imgextra/i4/3063905773/O1CN015JqmFq1sW53RWKVDX_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 31,
+                        "url": "https://img.alicdn.com/imgextra/i2/3063905773/O1CN01HTGOq81sW53RzHHd5_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 32,
+                        "url": "https://img.alicdn.com/imgextra/i4/3063905773/O1CN01khVGEE1sW53RWJdDC_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 33,
+                        "url": "https://img.alicdn.com/imgextra/i3/3063905773/O1CN01kwF2sw1sW53PdJoR7_!!3063905773.jpg"
+                    },
+                    {
+                        "id": 34,
+                        "url": "https://img.alicdn.com/imgextra/i3/3063905773/O1CN010uzh8b1sW53K01w9L_!!3063905773.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2288,
+                "name": "当天发货/24期免息】Huawei/华为 nova 5 Pro官方旗舰店正品华为nova5pro手机5g新款6网p30直降mate30荣耀p20",
+                "imgUrl": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/2924891464/O1CN01aDyPof1MgYQicqXxc_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "2499.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i2/2924891464/O1CN01HMFDPn1MgYQfV5MmB_!!2924891464.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i2/2924891464/O1CN017tat0q1MgYQZHY5Ll_!!2924891464.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i2/2924891464/O1CN01cFjgVX1MgYQSWVXDw_!!2924891464.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i3/2924891464/O1CN01ObefjY1MgYOqRRYBI_!!2924891464.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i3/2924891464/O1CN01jZukMb1MgYPmDxcAu_!!2924891464.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/2924891464/O1CN019hmYyz1MgYQVV3nFR_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/2924891464/O1CN01MshjNR1MgYQickm7h_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i3/2924891464/O1CN01ruu4ZP1MgYQhYCMib_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/2924891464/O1CN01HsTRRQ1MgYQb8UfFo_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i4/2924891464/O1CN01Q2cc591MgYQdGZOaR_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i4/2924891464/O1CN017o6vFJ1MgYQdOrlqu_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i1/2924891464/O1CN01lvUkgV1MgYQdlrW4G_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i3/2924891464/O1CN014PHKwK1MgYQi3fHaS_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i4/2924891464/O1CN01tFvHUf1MgYQgJm4vk_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i2/2924891464/O1CN01ZNev9H1MgYQfXtjLQ_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i4/2924891464/O1CN01zjeyYo1MgYQfXtnWI_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i2/2924891464/O1CN01rkTVGY1MgYQdGYWWp_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i2/2924891464/O1CN01L5xxHF1MgYQhYERbL_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i1/2924891464/O1CN01zQWCkD1MgYQegA2pl_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 15,
+                        "url": "https://img.alicdn.com/imgextra/i1/2924891464/O1CN01cHkprq1MgYPYOME30_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 16,
+                        "url": "https://img.alicdn.com/imgextra/i1/2924891464/O1CN01TbazHT1MgYPcCzXG6_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 17,
+                        "url": "https://img.alicdn.com/imgextra/i3/2924891464/O1CN014R8nQl1MgYPkgif2F_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 18,
+                        "url": "https://img.alicdn.com/imgextra/i2/2924891464/O1CN010jFnJy1MgYPkgj89T_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 19,
+                        "url": "https://img.alicdn.com/imgextra/i3/2924891464/O1CN01rML2xw1MgYPouwUmG_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 20,
+                        "url": "https://img.alicdn.com/imgextra/i3/2924891464/O1CN01wVTHvF1MgYPmtUUZF_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 21,
+                        "url": "https://img.alicdn.com/imgextra/i4/2924891464/O1CN01GQ6KKR1MgYPjHr056_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 22,
+                        "url": "https://img.alicdn.com/imgextra/i1/2924891464/O1CN01VYZPpa1MgYPj1OHrQ_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 23,
+                        "url": "https://img.alicdn.com/imgextra/i3/2924891464/O1CN01aL78fs1MgYPaKoGr6_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 24,
+                        "url": "https://img.alicdn.com/imgextra/i4/2924891464/O1CN013I2ptJ1MgYNVxydnR_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 25,
+                        "url": "https://img.alicdn.com/imgextra/i1/2924891464/O1CN01BktHv61MgYNUgBIUL_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 26,
+                        "url": "https://img.alicdn.com/imgextra/i1/2924891464/O1CN01pqF8Tb1MgYNXYQEa5_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 27,
+                        "url": "https://img.alicdn.com/imgextra/i1/2924891464/O1CN01baZORt1MgYNXYQuAL_!!2924891464.jpg"
+                    },
+                    {
+                        "id": 28,
+                        "url": "https://img.alicdn.com/imgextra/i3/2924891464/O1CN01wgytP71MgYNXfc1IM_!!2924891464.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2289,
+                "name": "直降300【12期免息】Huawei/华为nova 6 5G/4G 手机官方旗舰店正品5ipro直降mate30新款全网通当天发5G新款",
+                "imgUrl": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/4270297104/O1CN01Pfy57c22LgExRMHGn_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "2999.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/4270297104/O1CN01Pfy57c22LgExRMHGn_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/4270297104/O1CN01gVqXqE22LgEvEOdaD_!!4270297104.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/4270297104/O1CN01DWodSk22LgEDEw1R0_!!4270297104.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/4270297104/O1CN01Op33VE22LgEqPBNLs_!!4270297104.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i3/4270297104/O1CN01utK3S722LgE8dDKbi_!!4270297104.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/4270297104/O1CN01MuS40I22LgEtEX8Me_!!4270297104.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i2/4270297104/O1CN01AldEQn22LgEmIbJp1_!!4270297104.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/4270297104/O1CN01AkaneF22LgEwC6glo_!!4270297104.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i3/4270297104/O1CN017csxeo22LgEWnDC7O_!!4270297104.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i2/4270297104/O1CN01TSo3CK22LgEuxSw26_!!4270297104.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i2/4270297104/O1CN01VrRgzm22LgERG4o4S_!!4270297104.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i1/4270297104/O1CN01AQg8h622LgEwlf0MU_!!4270297104.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i4/4270297104/O1CN01R0kf9A22LgEEmrKmq_!!4270297104.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i3/4270297104/O1CN01NX0u1422LgEC7fPtG_!!4270297104.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i1/4270297104/O1CN01WGWXsv22LgEikpIKD_!!4270297104.png"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i4/4270297104/O1CN01ql387E22LgEYSzy41_!!4270297104.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i4/4270297104/O1CN010JsOyE22LgECeLEvT_!!4270297104.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i2/4270297104/O1CN01Hjxks222LgE5ie33U_!!4270297104.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i3/4270297104/O1CN01ZeEtfA22LgE8sCGGS_!!4270297104.jpg"
+                    },
+                    {
+                        "id": 15,
+                        "url": "https://img.alicdn.com/imgextra/i4/4270297104/O1CN01gD3k9C22LgE9wpCDh_!!4270297104.jpg"
+                    },
+                    {
+                        "id": 16,
+                        "url": "https://img.alicdn.com/imgextra/i3/4270297104/O1CN01JWHPco22LgED4iALR_!!4270297104.jpg"
+                    },
+                    {
+                        "id": 17,
+                        "url": "https://img.alicdn.com/imgextra/i3/4270297104/O1CN01UAznuJ22LgE8MvUbv_!!4270297104.jpg"
+                    },
+                    {
+                        "id": 18,
+                        "url": "https://img.alicdn.com/imgextra/i3/4270297104/O1CN011xQuNs22LgE9ADG7M_!!4270297104.jpg"
+                    },
+                    {
+                        "id": 19,
+                        "url": "https://img.alicdn.com/imgextra/i4/4270297104/O1CN01UcSpro22LgECeMNaJ_!!4270297104.jpg"
+                    },
+                    {
+                        "id": 20,
+                        "url": "https://img.alicdn.com/imgextra/i1/4270297104/O1CN018FnrtS22LgE5ic6Wx_!!4270297104.jpg"
+                    },
+                    {
+                        "id": 21,
+                        "url": "https://img.alicdn.com/imgextra/i3/4270297104/O1CN018QNP7X22LgE9AHPtJ_!!4270297104.jpg"
+                    },
+                    {
+                        "id": 22,
+                        "url": "https://img.alicdn.com/imgextra/i4/4270297104/O1CN01qZQSWE22LgEBV8weV_!!4270297104.jpg"
+                    },
+                    {
+                        "id": 23,
+                        "url": "https://img.alicdn.com/imgextra/i3/4270297104/O1CN01wUCOev22LgEAaWkNF_!!4270297104.jpg"
+                    },
+                    {
+                        "id": 24,
+                        "url": "https://img.alicdn.com/imgextra/i1/4270297104/O1CN01W7D0dM22LgEAaXkj8_!!4270297104.jpg"
+                    },
+                    {
+                        "id": 25,
+                        "url": "https://img.alicdn.com/imgextra/i2/4270297104/O1CN01o1tryV22LgE9ADf1w_!!4270297104.jpg"
+                    },
+                    {
+                        "id": 26,
+                        "url": "https://img.alicdn.com/imgextra/i2/4270297104/O1CN01by4VnW22LgE6hXxUQ_!!4270297104.jpg"
+                    },
+                    {
+                        "id": 27,
+                        "url": "https://img.alicdn.com/imgextra/i2/4270297104/O1CN01BTASp822LgE8dECo0_!!4270297104.jpg"
+                    },
+                    {
+                        "id": 28,
+                        "url": "https://img.alicdn.com/imgextra/i3/4270297104/O1CN01x9M9XC22LgE6hWonk_!!4270297104.jpg"
+                    },
+                    {
+                        "id": 29,
+                        "url": "https://img.alicdn.com/imgextra/i4/4270297104/O1CN01LgNYdF22LgED4iZJC_!!4270297104.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2290,
+                "name": "已降500元24期免息+送好礼 Huawei/华为Mate 30 5G移动联通电信全网通mate30直降mate20保时捷P30荣耀v30",
+                "imgUrl": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i2/4108177074/O1CN01oaeWlm227wM8Bc6Rk_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "4499.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i2/4108177074/O1CN01oaeWlm227wM8Bc6Rk_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/4108177074/O1CN01eJuqGT227wMEBPAmg_!!4108177074.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/4108177074/O1CN01ske7nU227wLL8KCEH_!!4108177074.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/4108177074/O1CN01UHgQhT227wLHi18Ly_!!4108177074.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i2/4108177074/O1CN01VGR0vB227wLHiNPqx_!!4108177074.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/4108177074/O1CN01uxQPBb227wLWobY8O_!!4108177074.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/4108177074/O1CN01h7S3pB227wM5GwdpC_!!4108177074.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i4/4108177074/O1CN01wubyTV227wMC99tx4_!!4108177074.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i2/4108177074/O1CN01OJYYrb227wLUHkPap_!!4108177074.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i4/4108177074/O1CN01zFB2ri227wKr54jqy_!!4108177074.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i2/4108177074/O1CN01wwwbBm227wKwhXnG6_!!4108177074.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i2/4108177074/O1CN01a70xl4227wKz5fOZt_!!4108177074.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i2/4108177074/O1CN01CI05e5227wL1toyQk_!!4108177074.jpg"
+                    }
+                ]
+            }
+        ]
+    }
+}
