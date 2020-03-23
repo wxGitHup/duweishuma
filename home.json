@@ -1229,24 +1229,24 @@
             }
         ],
         "subTags": [{
-            "id": 2201,
-            "tagName": "索尼",
-            "imgUrl": "https://img.alicdn.com/imgextra/i4/782731205/O1CN012NIwWt1KlvqceDJYU_!!0-item_pic.jpg_400x400q90.jpg"
-        },
-        {
-            "id": 2211,
-            "tagName": "佳能",
-            "imgUrl": "https://img.alicdn.com/imgextra/i4/409679289/O1CN011V0SYS2IUPdl4MCRA_!!0-item_pic.jpg_400x400q90.jpg"
-        },
-        {
-            "id": 2221,
-            "tagName": "GoPro",
-            "imgUrl": "https://img.alicdn.com/imgextra/i2/3026064172/O1CN01JyTgLh1ggoyTMMm48_!!0-item_pic.jpg_400x400q90.jpg"
-        },
-        {
             "id": 2231,
             "tagName": "Apple/苹果",
             "imgUrl": "https://img.alicdn.com/imgextra/i3/268451883/O1CN01QKLSzD1PmSNgI7sa5_!!0-item_pic.jpg_400x400q90.jpg"
+        },
+        {
+            "id": 2271,
+            "tagName": "飞利浦",
+            "imgUrl": "https://img.alicdn.com/imgextra/i2/2415742114/O1CN01jac2Bd1RUFs2T9HTe_!!0-item_pic.jpg_400x400q90.jpg"
+        },
+        {
+            "id": 2301,
+            "tagName": "爱国者",
+            "imgUrl": "https://img.alicdn.com/imgextra/i1/372598959/O1CN01sskcRO2G3Gq42eqny_!!0-item_pic.jpg_400x400q90.jpg"
+        },
+        {
+            "id": 2201,
+            "tagName": "索尼",
+            "imgUrl": "https://img.alicdn.com/imgextra/i4/782731205/O1CN012NIwWt1KlvqceDJYU_!!0-item_pic.jpg_400x400q90.jpg"
         }]
     }
 }
